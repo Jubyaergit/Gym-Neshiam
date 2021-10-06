@@ -1,0 +1,214 @@
+/* =============================================
+                START
+=============================================== */
+@media(min-width:320px) and (max-width:575px){
+  nav{
+    background: transparent;
+  }
+  nav .navbar-brand img {
+    background: transparent;
+    padding: 0;
+    position: static;
+    transform: translateY(0);
+  }
+  nav button i{
+    color: white;
+  }
+  nav ul{
+    background: #000;
+  }
+  nav ul li:hover{
+    background: transparent;
+  }
+  nav ul li:hover a{
+    color: white !important;
+  }
+  nav ul li a{
+    text-align: center;
+  }
+  .nav-link {
+    display: block;
+    padding: 0;
+  }
+  nav ul li:hover:after {
+    width: 0%;
+  }
+  .navbar-toggler:focus {
+    box-shadow: 0 ;
+  }
+  #banner-part .banner h3::before {
+    display: none;
+  }
+  #banner-part .banner h3::after {
+    display: none;
+  }
+  #banner-part .banner h1::before {
+    display: none;
+  }
+  #banner-part .banner h1::after {
+    display: none;
+  }
+  #banner-part .banner p::after {
+    display: none;
+  }
+  #banner-part .banner p::before {
+    display: none;
+  }
+  #banner-part .banner p{
+    width: auto;
+  }
+  #about-us .title h2 {
+    margin-top: 20px;
+  }
+  #team-part .img .img-overlay {
+    opacity: 1;
+  }
+  #team-part .member .details p {
+    opacity: 1;
+  }
+  #team-part .member:hover {
+    transform: scale(1);
+    margin-top: 0px;
+  }
+  #team-part .img .img-overlay {
+    transform: scale(.9);
+    opacity: 1;
+  }
+  #team-part .member:hover .details {
+    border-color: transparent;
+  }
+  #testimonial-part .clint-slider .item p {
+    width: auto;
+  }
+  .colorful-tab-menu {
+    flex-direction: row;
+  }
+  ol, ul {
+    padding-left: 0;
+  }
+  #colorful-part .item {
+    width: 100%;
+  }
+  .row > * {
+    margin-bottom: 20px;
+  }
+  #counter-part .item {
+    width: auto;
+  }
+  #colorful-part .main {
+    display: flex;
+    flex-direction: column;
+  }
+  /* ========================= */
+}
+/* =============================================
+                END
+=============================================== */
+/* =============================================
+                START
+=============================================== */
+
+
+@media(min-width:576px) and (max-width:767px){
+  nav{
+    background: transparent;
+  }
+  nav .navbar-brand img {
+    background: transparent;
+    padding: 0;
+    position: static;
+    transform: translateY(0);
+  }
+  nav button i{
+    color: white;
+  }
+  nav ul{
+    background: #000;
+  }
+  nav ul li:hover{
+    background: transparent;
+  }
+  nav ul li:hover a{
+    color: white !important;
+  }
+  nav ul li a{
+    text-align: center;
+  }
+  .nav-link {
+    display: block;
+    padding: 0;
+  }
+  nav ul li:hover:after {
+    width: 0%;
+  }
+  .navbar-toggler:focus {
+    box-shadow: 0 ;
+  }
+  #banner-part .banner h3::before {
+    display: none;
+  }
+  #banner-part .banner h3::after {
+    display: none;
+  }
+  #banner-part .banner h1::before {
+    display: none;
+  }
+  #banner-part .banner h1::after {
+    display: none;
+  }
+  #banner-part .banner p::after {
+    display: none;
+  }
+  #banner-part .banner p::before {
+    display: none;
+  }
+  #banner-part .banner p{
+    width: auto;
+  }
+  #about-us .title h2 {
+    margin-top: 20px;
+  }
+  #team-part .img .img-overlay {
+    opacity: 1;
+  }
+  #team-part .member .details p {
+    opacity: 1;
+  }
+  #team-part .member:hover {
+    transform: scale(1);
+    margin-top: 0px;
+  }
+  #team-part .img .img-overlay {
+    transform: scale(.9);
+    opacity: 1;
+  }
+  #team-part .member:hover .details {
+    border-color: transparent;
+  }
+  #testimonial-part .clint-slider .item p {
+    width: auto;
+  }
+  .colorful-tab-menu {
+    flex-direction: row;
+  }
+  ol, ul {
+    padding-left: 0;
+  }
+  #colorful-part .item {
+    width: 100%;
+  }
+  .row > * {
+    margin-bottom: 20px;
+  }
+  #counter-part .item {
+    width: auto;
+  }
+  #colorful-part .main {
+    display: flex;
+    flex-direction: column;
+  }
+  /* ========================= */
+}
+/* =============================================
+                END
+=============================================== */
